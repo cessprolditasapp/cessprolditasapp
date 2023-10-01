@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cessprolditasapp.
+- 👋 Hi, I’m @cessprolditasapp
 - 👀 I’m interested in Hugging Face Fellowship
 - 🌱 I’m currently learning Rust and Angular.
 - 💞️ I’m looking to collaborate on Golang.
