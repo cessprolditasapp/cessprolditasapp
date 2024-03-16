@@ -5,6 +5,6 @@
 - 📫 How to reach me cessprolditasapp@gmx.com
 - Github forever
 - Discord faustyne.
-cessprolditasapp/cessprolditasapp is a ✨ special ✨ repository because its `README.md` (this file) app
+cessprolditasapp/cessprolditasapp is a ✨ special ✨ repository because its `README.md` (this file) ap
   
 
