@@ -5,6 +5,6 @@
 - 📫 How to reach me cessprolditasapp@gmx.com
 - Github forever
 - Discord faustyne.
-cessprolditasapp/cessprolditasapp is a ✨ specia
+cessprolditasapp/cessprolditasapp is a ✨ speci
   
 
